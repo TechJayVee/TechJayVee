@@ -3,12 +3,23 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Web Developer
 -------------
-
-I've been learning to code for 2 years, after switching careers. I started in front-end, but have found passion in backend development
-
-* 🌍  I'm based in the Philippines
-* ✉️  You can contact me at [teacherjayvee@gmail.com](mailto:teacherjayvee@gmail.com)
-* 🧠  I'm constantly learning...
+<div style="display: flex; align-items: center; justify-content: space-between; flex-direction: column">
+  <div>
+    <p>
+      After switching careers, I've been in the industry for more than 2+ years now. I started in front-end, but have found passion in backend development
+    </p>
+    <ul>
+      <li>🌍 I'm based in the Philippines</li>
+      <li>✉️ You can contact me at <a href="mailto:teacherjayvee@gmail.com">teacherjayvee@gmail.com</a></li>
+      <li>🧠 I'm constantly learning...</li>
+    </ul>
+  </div>
+  <div>
+    <a href="https://app.daily.dev/jayveescript">
+      <img src="https://api.daily.dev/devcards/10c92a84dbdd476e9203f17b986a019d.png?r=w8q" width="400" alt="Jayvee Palomo Ramos's Dev Card"/>
+    </a>
+  </div>
+</div>
 
 ### 💻Tech Stack
 
