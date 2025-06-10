@@ -6,7 +6,13 @@ Web Developer
 <div style="display: flex; align-items: center; justify-content: space-between; flex-direction: column">
   <div>
     <p>
-      After switching careers, I've been in the industry for more than 2+ years now. I started in front-end, but have found passion in backend development
+    With a total of <b>six years of working experience</b>, including over three years in the <b>web development industry</b>, I have transitioned into a skilled <b>Full-Stack Developer</b> with a strong foundation in both front-end and back-end technologies. <br/>Initially starting in front-end development, I discovered a passion for back-end systems and have since expanded my expertise to cover the entire development stack.
+    </p>
+        <p>
+Additionally, I have hands-on experience in <b>DevOps</b>, deploying applications across platforms such as AWS, Heroku, Render, Netlify, and Vercel. I specialize in integrating third-party APIs—including payment gateways, email services, Bullhorn, CMS platforms, and more—to enhance system functionality. I also configure CI/CD pipelines for seamless automation, ensuring efficient deployment workflows.
+    </p>
+            <p>
+Beyond traditional web development, I am proficient in <b>AI integration</b>, leveraging cutting-edge technologies to implement intelligent features, automation, and data-driven solutions into applications.
     </p>
     <ul>
       <li>🌍 I'm based in the Philippines</li>
